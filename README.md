@@ -125,6 +125,6 @@ This project is licensed under zlib license.
 
 ## Links
 
-- Original Cassowary C++ implementation: [](https://constraints.cs.washington.edu/cassowary/)
-- Cassowary.lua: [](https://github.com/simoncozens/cassowary.lua)
-- Kiwi C++: [](https://github.com/simoncozens/cassowary.lua)
+- [Original Cassowary C++ implementation](https://constraints.cs.washington.edu/cassowary/)
+- [Cassowary.lua](https://github.com/simoncozens/cassowary.lua)
+- [Kiwi C++](https://github.com/simoncozens/cassowary.lua)
